@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Blood Bank</string>
+    <string name="register_btn">Become a Donor</string>
+    <string name="title_register">Your detail will be public to the Community</string>
 </resources>
